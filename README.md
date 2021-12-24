@@ -1,0 +1,2 @@
+# persBlog
+project for learning
